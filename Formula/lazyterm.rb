@@ -1,11 +1,11 @@
 class Lazyterm < Formula
   desc "Keyboard-driven SSH and project workspace"
   homepage "https://github.com/humbertyu/lazyterm"
-  version "0.9.0-beta.2"
+  version "0.9.0-beta.3"
   license "MIT"
 
-  url "https://github.com/humbertyu/lazyterm/releases/download/v0.9.0-beta.2/lazyterm-v0.9.0-beta.2-universal-apple-darwin.tar.gz"
-  sha256 "7668fa736171ee3cd0a922e2b9951f8c8f69c358447221546a2373adcc459f0b"
+  url "https://github.com/humbertyu/lazyterm/releases/download/v0.9.0-beta.3/lazyterm-v0.9.0-beta.3-universal-apple-darwin.tar.gz"
+  sha256 "9cbf88e8c49c10c0949b46d780c2261a44c9799786508017782ced7bb1855790"
 
   depends_on :macos
   on_macos do
